@@ -1,0 +1,13 @@
+# 忽略 Python 暫存檔
+__pycache__/
+*.pyc
+
+# 忽略虛擬環境
+venv/
+.env
+
+# 忽略資料（如果 rawdataset.xlsx 很大或包含敏感資訊，建議不要上傳）
+# data/rawdataset.xlsx
+
+# 忽略 VS Code 設定
+.vscode/
